@@ -1,0 +1,7 @@
+requests
+python-telegram-bot==13.7
+bs4
+numpy
+pytz
+python-dotenv
+lxml

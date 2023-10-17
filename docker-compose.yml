@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  aurora_bot:
+    build: .
+    ports:
+      - "5000:80"
